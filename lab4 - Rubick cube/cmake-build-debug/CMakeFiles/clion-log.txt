@@ -1,0 +1,4 @@
+/Users/kirill/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/kirill/Desktop/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/kirill/Desktop/prog/lab4 - Rubick cube"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kirill/Desktop/prog/lab4 - Rubick cube/cmake-build-debug
